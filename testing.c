@@ -1,3 +1,4 @@
-
-int main()
-printf("hello szekei")
+#include <stdio.h>
+int main(){
+printf("hello szekei\n");
+}
